@@ -1,0 +1,7 @@
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\bin\Debug\ClientProxy-P4-20190140066.exe.config
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\bin\Debug\ClientProxy-P4-20190140066.exe
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\bin\Debug\ClientProxy-P4-20190140066.pdb
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\obj\Debug\ClientProxy-P4-20190140066.csprojAssemblyReference.cache
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\obj\Debug\ClientProxy-P4-20190140066.csproj.CoreCompileInputs.cache
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\obj\Debug\ClientProxy-P4-20190140066.exe
+D:\Pengembangan app terdistribusi\minggu3 or 4\ClientProxy-P4-20190140066\ClientProxy-P4-20190140066\obj\Debug\ClientProxy-P4-20190140066.pdb
